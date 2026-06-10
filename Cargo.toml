@@ -1,4 +1,6 @@
 [package]
+description = "ternary-optimizer - SuperInstance ecosystem crate"
+repository = "https://github.com/SuperInstance/ternary-optimizer"
 name = "ternary-optimizer"
 version = "0.1.0"
 edition = "2024"
